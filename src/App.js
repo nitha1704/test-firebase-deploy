@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. MAIN22
+          Edit <code>src/App.js</code> and save to reload. MAIN22 ADD CONTENT
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React MAIN22
+          Learn React MAIN22 ADD CONTENT
         </a>
       </header>
     </div>
